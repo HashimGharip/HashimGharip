@@ -7,12 +7,12 @@ Data Engineer
 Hashim is a dedicated Data and BI Engineer with 3 years of hands-on experience in data architecture, analysis, and business intelligence solutions. He is committed to aligning technical solutions with business objectives, ensuring that data systems support strategic decision-making. Proficient in using modern tools and technologies, he has successfully designed and managed scalable databases and data pipelines across multiple projects. Hashim thrives in collaborative environments, values continuous learning, and is driven by the goal of growing into senior-level roles through delivering impactful results and working with high-performing teams.
 
 
-* 🌍  I'm based in Cairo, Egypt  
-* ✉️  You can contact me at <a href="mailto:Hashim.Asaad@outlook.com" target="_blank" rel="noreferrer">Hashim.Asaad@outlook.com</a>  
-* 🚀  I'm currently working at <a href="http://www.servicenow.com/" target="_blank" rel="noreferrer">ServiceNow</a>  
-* 💼  I previously worked at <a href="https://www.linkedin.com/company/good-2-know" target="_blank" rel="noreferrer">G2K-Group</a>  
-* 📚  I completed a Data and BI Intensive Diploma at <a href="https://iti.gov.eg/home" target="_blank" rel="noreferrer">Information Technology Institute</a>  
-* 🎓  I studied Software Engineering at <a href="https://www.zu.edu.eg/" target="_blank" rel="noreferrer">Zagazig University</a>
+* 🌍  I'm based in Cairo, Egypt
+* ✉️  You can contact me at [Hashim.Asaad@outlook.com](mailto:Hashim.Asaad@outlook.com)
+* 🚀  I'm currently working at [Servicenow](http://www.servicenow.com/)
+* 💼  I previously worked at [G2K-Group](https://www.linkedin.com/company/good-2-know)
+* 📚  I completed a Data and BI Intensive Diploma at [Information Technology Institute](https://iti.gov.eg/home)
+* 🎓  I studied Software Engineering at [Zagazig University](https://www.zu.edu.eg/)
 
 
 
