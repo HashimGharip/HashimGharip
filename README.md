@@ -50,7 +50,9 @@ Hashim is a dedicated Data and BI Engineer with 5 years of hands-on experience i
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/tableau-software.png" width="36" height="36" alt="Tableau" />
   </a>
-  
+      <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Apache_Airflow_Logo.png" width="36" height="36" alt="Apache Airflow" />
+    </a>
 </p>
 
 
