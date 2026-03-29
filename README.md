@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-Hashim is a dedicated Data and BI Engineer with 4 years of hands-on experience in data architecture, analysis, and business intelligence solutions. He is committed to aligning technical solutions with business objectives, ensuring that data systems support strategic decision-making. Proficient in using modern tools and technologies, he has successfully designed and managed scalable databases and data pipelines across multiple projects. Hashim thrives in collaborative environments, values continuous learning, and is driven by the goal of growing into senior-level roles through delivering impactful results and working with high-performing teams.
+Hashim is a dedicated Data and BI Engineer with 5 years of hands-on experience in data architecture, analysis, and business intelligence solutions. He is committed to aligning technical solutions with business objectives, ensuring that data systems support strategic decision-making. Proficient in using modern tools and technologies, he has successfully designed and managed scalable databases and data pipelines across multiple projects. Hashim thrives in collaborative environments, values continuous learning, and is driven by the goal of growing into senior-level roles through delivering impactful results and working with high-performing teams.
 
 
 * 🌍  I'm based in Cairo, Egypt
