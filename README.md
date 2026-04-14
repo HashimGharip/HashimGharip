@@ -53,9 +53,9 @@ Hashim is a dedicated Data and BI Engineer with 5 years of hands-on experience i
  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="python" width="40" height="40"/>
   </a>
-   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.streamlinehq.com/icons/download/dbt-icon--31103" alt="python" width="40" height="40"/>
-  </a>
+ <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/>
+ </a>
 </p>
 
 
